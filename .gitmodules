@@ -1,6 +1,6 @@
-[submodule "dratter_react_backend"]
+[submodule "backend"]
 	path = backend
 	url = https://github.com/umemiya0715/dratter_react_backend
-[submodule "dratter_react_frontend"]
+[submodule "frontend"]
 	path = frontend
 	url = https://github.com/umemiya0715/dratter_react_frontend
